@@ -1,6 +1,6 @@
 # AI Pulse — Model Radar
 
-> Track AI models from 180+ companies in one clean, zero-build dashboard — and update it yourself, any time, to catch every new model as it drops. No server, no install — just open and go.
+> Track AI models from 170+ companies in one clean, zero-build dashboard — and update it yourself, any time, to catch every new model as it drops. No server, no install — just open and go.
 
 ![Stack](https://img.shields.io/badge/stack-vanilla_JS-0A0A0A?style=flat-square) ![Build](https://img.shields.io/badge/build-zero-FAFAF7?style=flat-square) ![License](https://img.shields.io/badge/license-Commercial-D97757?style=flat-square) ![Models](https://img.shields.io/badge/models-600%2B-ff5b1f?style=flat-square)
 
