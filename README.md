@@ -14,7 +14,7 @@ AI Pulse — Model Radar is a single-file dashboard that brings together everyth
 
 The AI landscape moves fast — new models ship almost daily. That's why the full version isn't a static snapshot: you run the update yourself, whenever you want, and pull in every new model as it's released. No subscription, no waiting on us — your dashboard, your pace.
 
-Open the file, and it just works. No build step, no server, no dependencies to install.
+Open the dashboard file, and it just works in your browser — no build step, no server. The update pipeline requires Python 3.8+ (no pip packages needed).
 
 ---
 
