@@ -33,10 +33,10 @@ Open the file, and it just works. No build step, no server, no dependencies to i
 
 ---
 
-## 🖼 Screenshots
-## 🎥 Demo Video
 
-You can watch a screen recording of the app [via this link](https://github.com/user-attachments/assets/eda22a95-a6db-425d-b855-4637e7873ab3).
+## 🎥 Demo Video
+You can watch a screen recording of the app <a href="https://github.com/user-attachments/assets/eda22a95-a6db-425d-b855-4637e7873ab3" target="_blank">via this link</a>.
+## 🖼 Screenshots
 ![Dashboard overview](ss/ss.png)
 ![Model card view](ss/ss2.png)
 ![Card lightbox view](ss/ss3.png)
