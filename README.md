@@ -42,7 +42,7 @@ Open the file, and it just works. No build step, no server, no dependencies to i
 ![Card lightbox view](ss/s3.png)
 ![Provider Radar](ss/ss4.png)
 ![Cost Analysis](ss/ss5.png)
-![Model Comparison](ss/ss6.png)e)*
+![Model Comparison](ss/ss6.png)
 
 ---
 
