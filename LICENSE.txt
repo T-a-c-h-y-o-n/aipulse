@@ -1,0 +1,82 @@
+AI PULSE — MODEL RADAR
+Commercial License Agreement (v1.0)
+
+Copyright (c) 2026 AI Pulse. All rights reserved.
+
+By purchasing, downloading, or using this software, you ("the Licensee")
+agree to be bound by the following terms:
+
+1. GRANT OF LICENSE
+   The Licensee is granted a non-exclusive, non-transferable license to
+   use this software ("AI Pulse — Model Radar", including its HTML
+   dashboard, seed data files, and Python pipeline tools) for personal
+   or internal business purposes, for an unlimited duration, on the
+   terms set out below.
+
+2. PERMITTED USE
+   - Use the software for personal projects, research, or internal
+     business operations.
+   - Modify the source code for your own personal or internal use.
+   - Run the included Python pipeline tools to update or extend your
+     own local copy of the model data.
+
+3. RESTRICTIONS
+   The Licensee may NOT, under any circumstances:
+   - Resell, sublicense, rent, lease, or otherwise distribute this
+     software, in whole or in part, to any third party.
+   - Redistribute the software free of charge, including via public
+     code repositories, file-sharing platforms, or bundled software
+     packages.
+   - Repackage, rebrand, or present this software (or a modified
+     version of it) as your own product for distribution or resale.
+   - Share your copy of the software, license key, or download link
+     with any third party.
+   - Use the software to build a competing product intended for public
+     or commercial distribution.
+
+4. MODIFICATIONS
+   The Licensee may modify the source code for personal or internal
+   use only. Modified versions remain subject to this License and may
+   not be distributed or resold under any circumstances.
+
+5. TEAM / ORGANIZATION USE
+   A single license covers use by one individual. Organizations
+   requiring use by multiple employees or departments must purchase a
+   separate Team License. Contact the author for team pricing.
+
+6. INTELLECTUAL PROPERTY
+   All rights, title, and interest in and to the software, including
+   all associated data, code, design, and documentation, remain the
+   exclusive property of AI Pulse (the "Author"). This License does
+   not transfer any ownership rights to the Licensee.
+
+7. NO WARRANTY
+   This software is provided "AS IS", without warranty of any kind,
+   express or implied, including but not limited to accuracy of model
+   data, benchmarks, pricing information, or fitness for a particular
+   purpose. The author is not liable for any damages arising from the
+   use of this software, including decisions made based on the data
+   it presents.
+
+8. THIRD-PARTY DATA
+   Model information, benchmarks, and pricing data are aggregated from
+   public sources (HuggingFace, GitHub, OpenRouter, and others) and may
+   be inaccurate, outdated, or incomplete. Verify critical information
+   independently before relying on it.
+
+9. TERMINATION
+   This License is automatically terminated if the Licensee breaches
+   any of the above terms. Upon termination, the Licensee must destroy
+   all copies of the software in their possession.
+
+10. GOVERNING LAW
+    This Agreement shall be governed by applicable copyright and
+    intellectual property law. Any disputes shall be resolved in
+    accordance with the laws of the author's jurisdiction.
+
+---
+
+Questions or team licensing inquiries: [your email / support link]
+Product page: [Payhip / Gumroad link]
+
+© 2026 AI Pulse. All rights reserved.
