@@ -37,7 +37,7 @@ Open the file, and it just works. No build step, no server, no dependencies to i
 
 ![Dashboard overview](ss/ss.png)
 ![Model card view](ss/ss2.png)
-![Card lightbox view](ss/s3.png)
+![Card lightbox view](ss/ss3.png)
 ![Provider Radar](ss/ss4.png)
 ![Cost Analysis](ss/ss5.png)
 ![Model Comparison](ss/ss6.png)
