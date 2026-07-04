@@ -45,7 +45,7 @@ Open the file, and it just works. No build step, no server, no dependencies to i
 ---
 
 ## 🎥 Demo
-
+https://github.com/user-attachments/assets/eda22a95-a6db-425d-b855-4637e7873ab3
 This repo includes a limited demo (50 models, restricted company list, core features only) — try it live: https://aipulses.vercel.app/
 
 Model and pricing data can shift within hours, so the demo is intentionally a snapshot, not the real thing. The full version gets you:
