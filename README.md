@@ -34,7 +34,9 @@ Open the file, and it just works. No build step, no server, no dependencies to i
 ---
 
 ## 🖼 Screenshots
+## 🎥 Demo Video
 
+You can watch a screen recording of the app [via this link](https://github.com/user-attachments/assets/eda22a95-a6db-425d-b855-4637e7873ab3).
 ![Dashboard overview](ss/ss.png)
 ![Model card view](ss/ss2.png)
 ![Card lightbox view](ss/ss3.png)
@@ -45,7 +47,6 @@ Open the file, and it just works. No build step, no server, no dependencies to i
 ---
 
 ## 🎥 Demo
-https://github.com/user-attachments/assets/eda22a95-a6db-425d-b855-4637e7873ab3
 This repo includes a limited demo (50 models, restricted company list, core features only) — try it live: https://aipulses.vercel.app/
 
 Model and pricing data can shift within hours, so the demo is intentionally a snapshot, not the real thing. The full version gets you:
