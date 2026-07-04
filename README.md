@@ -35,8 +35,6 @@ Open the file, and it just works. No build step, no server, no dependencies to i
 
 ## 🖼 Screenshots
 
-## 🖼 Screenshots
-
 ![Dashboard overview](ss/ss.png)
 ![Model card view](ss/ss2.png)
 ![Card lightbox view](ss/s3.png)
