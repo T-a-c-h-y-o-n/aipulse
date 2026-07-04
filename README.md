@@ -4,7 +4,7 @@
 
 ![Stack](https://img.shields.io/badge/stack-vanilla_JS-0A0A0A?style=flat-square) ![Build](https://img.shields.io/badge/build-zero-FAFAF7?style=flat-square) ![License](https://img.shields.io/badge/license-Commercial-D97757?style=flat-square) ![Models](https://img.shields.io/badge/models-600%2B-ff5b1f?style=flat-square)
 
-**[▶ Live Demo](#)** · **[💳 Get Full Version](#)**
+https://aipulses.vercel.app/· **[💳 Get Full Version](#)**
 
 ---
 
@@ -46,7 +46,7 @@ Open the file, and it just works. No build step, no server, no dependencies to i
 
 ## 🎥 Demo
 
-This repo includes a limited demo (50 models, restricted company list, core features only) — try it live: **[demo link]**
+This repo includes a limited demo (50 models, restricted company list, core features only) — try it live: https://aipulses.vercel.app/
 
 Model and pricing data can shift within hours, so the demo is intentionally a snapshot, not the real thing. The full version gets you:
 - The complete, current dataset — 600+ models across 180+ companies
