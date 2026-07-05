@@ -4,7 +4,7 @@
 
 ![Stack](https://img.shields.io/badge/stack-vanilla_JS-0A0A0A?style=flat-square) ![Build](https://img.shields.io/badge/build-zero-FAFAF7?style=flat-square) ![License](https://img.shields.io/badge/license-Commercial-D97757?style=flat-square) ![Models](https://img.shields.io/badge/models-600%2B-ff5b1f?style=flat-square)
 
-**[▶ Live Demo](https://aipulses.vercel.app/)** · **[💳 Get Full Version](https://aipulses.vercel.app/)**
+**[▶ Live Demo](https://aipulses.vercel.app/)** · **[💳 Get Full Version](https://tachyon80.gumroad.com/l/aipulse-personal)**
 
 ---
 
@@ -97,7 +97,7 @@ Model and pricing data can shift within hours, so the demo is intentionally a sn
 - Full cost analysis tables and live provider radar across 10+ APIs
 - Full benchmark and pricing data for every model
 
-**[Get the full version →](https://aipulses.vercel.app/)**
+**[Get the full version →](https://tachyon80.gumroad.com/l/aipulse-personal)**
 
 ---
 
