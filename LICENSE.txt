@@ -77,6 +77,6 @@ agree to be bound by the following terms:
 ---
 
 Questions or team licensing inquiries: [your email / support link]
-Product page: [Payhip / Gumroad link]
+Product page: https://github.com/T-a-c-h-y-o-n/aipulse
 
 © 2026 AI Pulse. All rights reserved.
