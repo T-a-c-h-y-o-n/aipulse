@@ -36,11 +36,11 @@ AI Pulse turns the chaos of the AI world into one organized dashboard — 600+ m
 - **Update anytime** — run it yourself and pull in every new model the moment it's released, no waiting on us
 - **Side-by-side model comparison** — pick any models and compare specs, benchmarks, and pricing in one table, then export as PDF, PNG, or CSV
 - **Cost analysis** — input/output pricing per 1K and 1M tokens, laid out for quick comparison across models
+- **Check free-tier with Provider Radar** — see where a model is available for free across multiple providers, right from your browser
 - **10 interactive charts** — release trends, category breakdowns, pricing, benchmark comparisons, and more
 - **Instant search** — find models by name, company, feature, or language in real time
 - **Smart filters** — quick presets (This Week, Trending, Open Weight, Large Models...) plus category/modality/company/license facets
 - **Full model cards** — benchmarks, pricing, context window, and source links at a glance
-- **Live free-tier provider check** — see where a model is available for free across multiple providers, right from your browser
 - **Dark/light themes**, grid views, responsive layout
 - **Adding favorite** models to favorites.
 - **Flagship models**, are in a separate category.
