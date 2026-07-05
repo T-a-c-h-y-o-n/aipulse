@@ -99,7 +99,7 @@ Model and pricing data can shift within hours, so the demo is intentionally a sn
 
 **[Get the full version →](https://tachyon80.gumroad.com/l/aipulse-personal)**
 
----
+Need it for your whole team? Check out the **[Team Edition →](https://tachyon80.gumroad.com/l/aipulse-team)**
 
 ## 📄 License
 
