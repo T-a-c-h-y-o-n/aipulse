@@ -42,8 +42,7 @@ AI Pulse turns the chaos of the AI world into one organized dashboard — 600+ m
 - **Full model cards** — benchmarks, pricing, context window, and source links at a glance
 - **Live free-tier provider check** — see where a model is available for free across multiple providers, right from your browser
 - **Dark/light themes**, grid views, responsive layout
-- **Saving models**, and model comparisons as PDF, PNG, and CSV files,
-- **Adding favorite models**, to favorites.
+- **Adding favorite** models to favorites.
 - **Flagship models**, are in a separate category.
 ---
 
