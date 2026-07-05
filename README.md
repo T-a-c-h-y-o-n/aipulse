@@ -17,6 +17,17 @@ The AI landscape moves fast — new models ship almost daily. That's why the ful
 Open the dashboard file, and it just works in your browser — no build step, no server. The update pipeline requires Python 3.8+ (no pip packages needed).
 
 ---
+## Who is it for?
+
+•AI researchers and engineers
+•Developers who want to decide which model to use
+•Anyone who wants to follow the AI ​​sector
+•Startup founders (with cost analysis feature)
+•Students and academics
+
+Conclusion
+AI Pulse transforms the chaos in the world of AI into an organized dashboard. 600+ models, 170+ Active Companies..
+---
 
 ## ✨ Highlights
 
@@ -32,7 +43,19 @@ Open the dashboard file, and it just works in your browser — no build step, no
 - **Dark/light themes**, grid/list views, responsive layout
 
 ---
+## 🚀 Running
+# Any method works:
+open dashboard-v3.html          # macOS
+xdg-open dashboard-v3.html      # Linux
+start dashboard-v3.html         # Windows
+# or just double-click
+---
+## Update Pipeline
+File	Platform	How to Run
+for-windows-update.bat	Windows	Right-click → Run as administrator
+for-linux-mac-update.sh	Linux & Mac	Double-click or bash for-linux-mac-update.sh
 
+---
 
 ## 🎥 Demo Video
 You can watch a screen recording of the app <a href="https://github.com/user-attachments/assets/eda22a95-a6db-425d-b855-4637e7873ab3" target="_blank">via this link</a>.
