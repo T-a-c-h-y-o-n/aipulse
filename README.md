@@ -23,9 +23,9 @@ Open the dashboard file, and it just works in your browser — no build step, no
 •Developers who want to decide which model to use
 •Anyone who wants to follow the AI ​​sector
 •Startup founders (with cost analysis feature)
-•Students and academics
+•Students and academics 
 
-Conclusion
+Conclusion:
 AI Pulse transforms the chaos in the world of AI into an organized dashboard. 600+ models, 170+ Active Companies..
 ---
 
@@ -44,11 +44,12 @@ AI Pulse transforms the chaos in the world of AI into an organized dashboard. 60
 
 ---
 ## 🚀 Running
-# Any method works:
-open dashboard-v3.html          # macOS
-xdg-open dashboard-v3.html      # Linux
-start dashboard-v3.html         # Windows
-# or just double-click
+
+Any method works:
+•open dashboard-v3.html          # macOS
+•xdg-open dashboard-v3.html      # Linux
+•start dashboard-v3.html         # Windows
+•or just double-click
 ---
 ## Update Pipeline
 File	Platform	How to Run
