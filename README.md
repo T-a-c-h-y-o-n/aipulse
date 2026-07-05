@@ -25,6 +25,9 @@ Open the dashboard file, and it just works in your browser — no build step, no
 - Anyone following the AI industry
 - Startup founders (thanks to the cost analysis feature)
 - Students and academics
+- Indie developers and hobbyists hunting for free-tier access across providers
+- Content creators and technical writers covering AI news
+- Product managers evaluating which model to integrate
 
 AI Pulse turns the chaos of the AI world into one organized dashboard — 600+ models, 170+ active companies.
 
