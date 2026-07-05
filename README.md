@@ -4,7 +4,7 @@
 
 ![Stack](https://img.shields.io/badge/stack-vanilla_JS-0A0A0A?style=flat-square) ![Build](https://img.shields.io/badge/build-zero-FAFAF7?style=flat-square) ![License](https://img.shields.io/badge/license-Commercial-D97757?style=flat-square) ![Models](https://img.shields.io/badge/models-600%2B-ff5b1f?style=flat-square)
 
-https://aipulses.vercel.app **[💳 Get Full Version](#)**
+**[▶ Live Demo](https://aipulses.vercel.app/)** · **[💳 Get Full Version](https://aipulses.vercel.app/)**
 
 ---
 
@@ -17,16 +17,17 @@ The AI landscape moves fast — new models ship almost daily. That's why the ful
 Open the dashboard file, and it just works in your browser — no build step, no server. The update pipeline requires Python 3.8+ (no pip packages needed).
 
 ---
+
 ## Who is it for?
 
-•AI researchers and engineers
-•Developers who want to decide which model to use
-•Anyone who wants to follow the AI ​​sector
-•Startup founders (with cost analysis feature)
-•Students and academics 
+- AI researchers and engineers
+- Developers deciding which model to use
+- Anyone following the AI industry
+- Startup founders (thanks to the cost analysis feature)
+- Students and academics
 
-Conclusion:
-AI Pulse transforms the chaos in the world of AI into an organized dashboard. 600+ models, 170+ Active Companies..
+AI Pulse turns the chaos of the AI world into one organized dashboard — 600+ models, 170+ active companies.
+
 ---
 
 ## ✨ Highlights
@@ -43,24 +44,34 @@ AI Pulse transforms the chaos in the world of AI into an organized dashboard. 60
 - **Dark/light themes**, grid/list views, responsive layout
 
 ---
+
 ## 🚀 Running
 
 Any method works:
-•open dashboard-v3.html          # macOS
-•xdg-open dashboard-v3.html      # Linux
-•start dashboard-v3.html         # Windows
-•or just double-click
----
-## Update Pipeline
-File	Platform	How to Run
-for-windows-update.bat	Windows	Right-click → Run as administrator
-for-linux-mac-update.sh	Linux & Mac	Double-click or bash for-linux-mac-update.sh
+
+```bash
+open dashboard-v3.html          # macOS
+xdg-open dashboard-v3.html      # Linux
+start dashboard-v3.html         # Windows
+```
+
+Or just double-click the file.
+
+### Update Pipeline
+
+| File | Platform | How to Run |
+|---|---|---|
+| `for-windows-update.bat` | Windows | Right-click → **Run as administrator** |
+| `for-linux-mac-update.sh` | Linux & Mac | Double-click or `bash for-linux-mac-update.sh` |
 
 ---
 
 ## 🎥 Demo Video
+
 You can watch a screen recording of the app <a href="https://github.com/user-attachments/assets/eda22a95-a6db-425d-b855-4637e7873ab3" target="_blank">via this link</a>.
+
 ## 🖼 Screenshots
+
 ![Dashboard overview](ss/ss.png)
 ![Model card view](ss/ss2.png)
 ![Card lightbox view](ss/ss3.png)
@@ -70,17 +81,19 @@ You can watch a screen recording of the app <a href="https://github.com/user-att
 
 ---
 
-## 🎥 Demo
-This repo includes a limited demo (50 models, restricted company list, core features only) — try it live: https://aipulses.vercel.app/
+## Try the Demo
+
+This repo includes a limited demo (50 models, restricted company list, core features only) — try it live: **[aipulses.vercel.app](https://aipulses.vercel.app/)**
 
 Model and pricing data can shift within hours, so the demo is intentionally a snapshot, not the real thing. The full version gets you:
-- The complete, current dataset — 600+ models across 180+ companies
+
+- The complete, current dataset — 600+ models across 170+ companies
 - **Update it yourself, any time** — pull in every newly released model as it drops, on your own schedule, no subscription required
 - Full model comparison across your entire dataset, not just the demo's 50
 - Full cost analysis tables and live provider radar across 10+ APIs
 - Full benchmark and pricing data for every model
 
-https://aipulses.vercel.app/
+**[Get the full version →](https://aipulses.vercel.app/)**
 
 ---
 
