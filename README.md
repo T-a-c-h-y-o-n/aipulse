@@ -84,6 +84,10 @@ You can watch a screen recording of the app <a href="https://github.com/user-att
 ![Model Comparison](ss/ss6.png)
 
 ---
+## YouTube
+
+[Watch the video](https://youtu.be/_XHSqOdAGbc)
+---
 
 ## Try the Demo
 
